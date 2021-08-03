@@ -1,0 +1,5 @@
+heorhii
+cpu cores	: 10
+MemTotal:       32717256 kB
+[    9.521067] sd 3:0:0:0: [sda] 468862128 512-byte logical blocks: (240 GB/224 GiB)
+[    9.521739] sd 5:0:0:0: [sdb] 7814037168 512-byte logical blocks: (4.00 TB/3.64 TiB)
